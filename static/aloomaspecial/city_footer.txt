@@ -1,0 +1,50 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. What size dumpster do I need for my project?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The right size depends entirely on your debris volume. For small room cleanouts or heavy materials like concrete, a 10 yard dumpster is usually best.[1] Mid-sized projects, like kitchen remodels or roofing, typically require a 20 yard dumpster. Large construction jobs or whole-home cleanouts usually necessitate a 30 yard dumpster or 40 yard dumpster.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. How much does it cost to rent a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Dumpster rental prices vary based on your location, the size of the container, and the type of debris. Generally, a small dumpster rental cost will be lower than a large roll off dumpster. Prices usually include delivery, pickup, and a set weight limit. It is best to call us for a specific quote to find the cheapest dumpster rental near me.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Do I need a permit to rent a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If you plan to place the roll off dumpster on your private driveway, you typically do not need a permit. However, if you need to place the dumpster on the street or a public right-of-way, most cities require a permit. We can help guide you through the local requirements in your area.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. What items are prohibited in a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For safety and environmental reasons, you cannot throw hazardous materials into a trash dumpster rental. This includes batteries, tires, paint, oil, asbestos, flammable liquids, and certain electronics. Putting these items in a waste container can result in significant additional fees.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. How long can I keep the rental dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental period usually ranges from 7 to 10 days, but this can vary by location. If you need the garbage container rental for a longer period, we offer flexible extensions for a daily fee. Just let us know your timeline when you order dumpster near me.</p>
+                <h4 class="template4 palooma" style="font-size:large;">6. Is there a weight limit for the dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, every dumpster bin comes with a specific weight limit measured in tons. If you exceed this limit, the landfill charges overage fees which are passed on to you. For heavy materials like dirt or concrete, we recommend using a smaller dumpster box to avoid exceeding weight capacities.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
